@@ -1,0 +1,90 @@
+{
+  "appName":"carapp",
+  "name":"carapp",
+  "signup": [
+   {"email" :  "mustafazeb381@gmail.com", "password":"12345"}
+
+  ],
+  "cardata": [
+    {
+      "id": 1,
+      "model": "Impreza",
+      "color": "Orange",
+      "registration_no": "TEU",
+      "make": "Subaru",
+      "model_year": 1998
+    },
+    {
+      "id": 2,
+      "model": "Corvette",
+      "color": "Orange",
+      "registration_no": "MJD",
+      "make": "Chevrolet",
+      "model_year": 1978
+    },
+    {
+      "id": 3,
+      "model": "XJ Series",
+      "color": "Fuscia",
+      "registration_no": "DVL",
+      "make": "Jaguar",
+      "model_year": 2003
+    },
+    {
+      "id": 4,
+      "model": "Quattroporte",
+      "color": "Khaki",
+      "registration_no": "0",
+      "make": "Maserati",
+      "model_year": 2011
+    },
+    {
+      "id": 5,
+      "model": "Ram 1500",
+      "color": "Orange",
+      "registration_no": "JNA",
+      "make": "Dodge",
+      "model_year": 2004
+    },
+    {
+      "id": 6,
+      "model": "Cobalt SS",
+      "color": "Mauv",
+      "registration_no": "XIY",
+      "make": "Chevrolet",
+      "model_year": 2007
+    },
+    {
+      "id": 7,
+      "model": "Maxima",
+      "color": "Mauv",
+      "registration_no": "KEF",
+      "make": "Nissan",
+      "model_year": 2000
+    },
+    {
+      "id": 8,
+      "model": "Tiburon",
+      "color": "Maroon",
+      "registration_no": "AUO",
+      "make": "Hyundai",
+      "model_year": 2003
+    },
+    {
+      "id": 9,
+      "model": "Allante",
+      "color": "Yellow",
+      "registration_no": "GFA",
+      "make": "Cadillac",
+      "model_year": 1993
+    },
+    {
+      "id": 10,
+      "model": "Azera",
+      "color": "Maroon",
+      "registration_no": "BTB",
+      "make": "Hyundai",
+      "model_year": 2012
+    }
+  ]
+}
